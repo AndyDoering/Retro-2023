@@ -68,7 +68,7 @@ For those interested, here's a speedrun of the historically relevant highlights 
 ## Modifying A Game Boy Color
 With the background covered, that finally brings us to modding the hand held. Below is a parts list of everything I picked up. You might not care about replacement labels or swapping your buttons or membranes. I would say at a minimum though, a screen upgrade (and compatable shell) is the must-have from the below list. The flash cartridges and screen will run right through the charge on your standard batteries, but you don't have to upgrade those to dive into playing. 
 
-![parts]https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/parts.png)
+![parts](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/parts.png)
 
 ### Mod Component List
 - [FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated Backlight Kit](https://retrogamerepairshop.com/collections/gbc-displays/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit)
