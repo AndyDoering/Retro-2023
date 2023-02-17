@@ -214,7 +214,7 @@ Overall this kit was a great install experience delivered in a really attractive
 
     Of note, the underside of the battery compartment (first picture below) is not even visible once the system is assembled again, as it is hidden behind the battery and battery cover.
     
-    ![USB-battery]https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/case-mod-USB-port.png)
+    ![USB-battery](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/case-mod-USB-port.png)
     
     - TIP 5: Giltsea has since released a [Shell Trimming Tool](https://github.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/tree/master/3.%20Documentation/Cutting%20Tool) that acts as a guide for trimming out a perfect looking USB-C hole!
 
