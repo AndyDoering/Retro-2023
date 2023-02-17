@@ -1,6 +1,6 @@
 # Background - Modifying - ROM Libraries and Homebrew Intro
 
-![FinishedProject](images/post/finishedbuild.png)
+![FinishedProject](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/finishedbuild.png)
 ## Table of Contents
 
 - [A Brief Introduction to Game Emulation](#a-brief-introduction-to-game-emulation)
@@ -23,7 +23,7 @@ Anywho, my on-ramp to messing with ROMs was via my search to replay through titl
 
 Eventually though, I wanted to take that ROM collection on the go. Through some searching, I found out about newer retro handheld models such as the Analogue Pocket. However, these hand helds are only available in quarterly fulfillment rounds. Through some follow on searching, I discovered Game Boy modding, ROM hacking, and applications such as GBStudio. 
 
-![Analogue-Pocket](Images/post/AnalogPocket.png)
+![Analogue-Pocket](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/AnalogPocket.png)
 (Image via Analogue, Inc [Twitter](https://twitter.com/analogue/status/1184485001737506820?s=20))
 
 
@@ -68,7 +68,7 @@ For those interested, here's a speedrun of the historically relevant highlights 
 ## Modifying A Game Boy Color
 With the background covered, that finally brings us to modding the hand held. Below is a parts list of everything I picked up. You might not care about replacement labels or swapping your buttons or membranes. I would say at a minimum though, a screen upgrade (and compatable shell) is the must-have from the below list. The flash cartridges and screen will run right through the charge on your standard batteries, but you don't have to upgrade those to dive into playing. 
 
-![parts](images/post/parts.png)
+![parts]https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/parts.png)
 
 ### Mod Component List
 - [FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated Backlight Kit](https://retrogamerepairshop.com/collections/gbc-displays/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit)
@@ -129,8 +129,8 @@ Overall this kit was a great install experience delivered in a really attractive
 
 1. You should take the opportunity to clean and inspect the PCB for any wear and tear. Removing any impurities will make sure that removing components from the bord easier. 90% isopropyl alcohol and lint free cleaning swabs will easily be all you need for this and the rest of clean up for the project. 
 
-    ![PCB-Removed-Front](images/post/OG-PCB-front.png)
-    ![PCB-Removed-Front](images/post/OG-PCB-back.png)
+    ![PCB-Removed-Front](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/OG-PCB-front.png)
+    ![PCB-Removed-Front](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/OG-PCB-back.png)
 
 1. Per the install guide [here](https://cdn.shopify.com/s/files/1/0266/1862/6122/files/GBC_PRO_-_Quick_Guide.pdf?v=1661886837) there's quite a few components that need to be removed from the PCB to accomodate the install of the new USB-C Charging Kit, including the DC-DC Converter board (the green board in the bottom left corner of the main PCB). Also, depending on the board version, the install instuctions vary a little. Luckily, my board was a v4, so I was able to install without needing t0 follow any alternative instructions. This specific board (v4) has the following [specs](https://wiki.console5.com/wiki/Game_Boy_Color#:~:text=X1%3A%20Oscillator%3A%C2%A0%3F%3F%3F-,CGB%2DCPU%2D04,-U1%3A%20CPU%3A):
 
@@ -172,19 +172,19 @@ Overall this kit was a great install experience delivered in a really attractive
 
 1. Next came the LED status light and board. The trickiest part of this install was making sure the holes lined up. After removing the old components, I cleaned out any remaining solder, cleaned the area, and then tinned the holes with solder as well as the wire ends. I lined up the right, round side of the board with the outline on the PCB, and then secured it with [Kapton tape](https://www.amazon.com/ELEGOO-Polyimide-Temperature-Resistant-Multi-Sized/dp/B072Z92QZ2/) before flowing the solder from the back of the PCB. After this, I soldered the 4 wires (3 to the LED status board and one to the audio amplifier(green)) in the order they specify in the install guide, again, tinning the pads prior to reheating to connect them.
 
-    ![Internals-Finished](images/post/LED-Status-Board.png)
+    ![Internals-Finished](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/LED-Status-Board.png)
     (Finished LED indicator install from the rear of the main PCB) 
     
     I personally opted to route wires as compact yet tucked away as possible. As I said earlier, I opted for a clear shell, and I really wanted to keep things as tidy and organized as possible. The biggest areas you want to pay attention to though are the green wire, which can get snagged under the cartridge when switching games if not secured, and the 3 wires that run the side of the board. The group of 3 wires can prevent the case from closing all the way if not properly cable managed when being run on the side of the console.
 
-    ![Internals-Finished](images/post/internals-finished.png)
+    ![Internals-Finished](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/internals-finished.png)
 
 ---
 #### FunnyPlaying IPS Screen Kit
 
 1. Installing the new screen is the other big half of this project. Luckily, I purchased an updated version of the IPS screen, and was able to avoid most soldering that the older versions still require, aside from two wires that allow access the `START` and `SELECT` buttons, as well as one wire for `PWR`. Notably, I opted for using the alternate pin locations which are shown below. 
 
-    ![Alternate-Pins](images/post/alternate-pins.png)
+    ![Alternate-Pins](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/alternate-pins.png)
 
     I also took the opportunity to trim the cartridge connection pins to be flat agains the PCB. These pins are the double rows under the PCB version screen printing, where the white and green portions of the main PCB join. The image above is from the `Retro Game Repair Shop` site, and references their V1 install, but the pins work the same. The alternate locations are not seen later as they are hidden by the screen, where the lower orginial locations would still be visible. Clear shell being used so I opted to hide them.
     
@@ -194,7 +194,7 @@ Overall this kit was a great install experience delivered in a really attractive
 
     So of course, test the screen is what I did:
 
-    ![ScreenTest](images/post/screen-test.png)
+    ![ScreenTest](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/screen-test.png)
 
     The absolute best resource I found in this whole customization process was a series of YouTube videos by [@makho](https://www.youtube.com/@makho/featured), of which their [screen install](https://www.youtube.com/watch?v=o9NvRFPqGLI) video was immensely helpful. Twitter: [@makhowastaken](https://twitter.com/makhowastaken). The install instructions that come with the screen and the video are more than enough to get your screen installed. 
         
@@ -204,7 +204,7 @@ Overall this kit was a great install experience delivered in a really attractive
     
     The kit advises that you set the potentiometer on the USB-Charging kit daughterboard to 50%. This is accomplished by rotating the metal top portion of the variable resistor listed in the install guide. I think I settled on half a turn clockwise if I recall. The instructions don't state how to adjust this setting as part of `Step 4`, so hopefully this saves you some searching. A pair of hobbyist tweezers made quick work of it.
 
-    ![Final-Solder](images/post/final-solder.png)
+    ![Final-Solder](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/final-solder.png)
 
 1. Before reassembling the case, I had to modify the case bottom to be able to close flush. The USB-C port needed an opening cut, as well as the battery housing needed trimmed down, as the USB-C Charging board components prevent the bottom from closing all the way. I made some light markings with an expo marker to indicate the USB-C port opening, which marked what areas to remove. 
 
@@ -214,28 +214,28 @@ Overall this kit was a great install experience delivered in a really attractive
 
     Of note, the underside of the battery compartment (first picture below) is not even visible once the system is assembled again, as it is hidden behind the battery and battery cover.
     
-    ![USB-battery](images/post/case-mod-USB-port.png)
+    ![USB-battery]https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/case-mod-USB-port.png)
     
     - TIP 5: Giltsea has since released a [Shell Trimming Tool](https://github.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro/tree/master/3.%20Documentation/Cutting%20Tool) that acts as a guide for trimming out a perfect looking USB-C hole!
 
     - Tip 6: I packed a small piece of non conductive foam under the battery-pack once connected to keep it from rattling around in the battery compartment.
     
-    ![USB-bottom](images/post/case-mod-battery-housing.png)
+    ![USB-bottom](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/case-mod-battery-housing.png)
 
 1. With the sreen installed and the PCB secured back in and connected, along with the buttons and membranes, the last bit left was to reassemble the case. I cannot stress enough how SLOW you need to go when re-assembling the back portion of the case. hand tightening 12-14 rotations for the case screws was what I went with to make sure the case was snug but not stretching the plastic screw posts.
 
-    ![gb-front](images/post/gb-front.png)
-    ![gb-back](images/post/gb-back.png)
+    ![gb-front](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/gb-front.png)
+    ![gb-back](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/gb-back.png)
 
 1. About the Cartridges: 
     
     Firstly, the below is a close-up picture of the awesome metallic foil replacement labels from the Etsy shop [JandMsalesforce](https://www.etsy.com/shop/JandMsalesforce). I know replacing the labels is controversial, but the Pokemon Blue copy that I had was showing a lot of smearing and wear. Since I was going to wind up replacing one, I opted to replace them all as a set, and replaced the labels on the other original cart cases too. The other two games are shown in the photo at the top of this write-up. 
 
-    ![labels](images/post/cart-label-replacements.png)
+    ![labels](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/cart-label-replacements.png)
     
     Secondly, I took this time to open the carts up and clean and inspect them for any wear, which is common around the pins on the bottom of the PCB. This is also a common place for corrosion to build up, all of which looks a bit like a uniform patterned line across where the plastic meets the pin traces. [TronicsFix on YouTube](https://www.youtube.com/watch?v=xYUW0uVBp0k) had a really informative walk through on restoring a collection of broken Game Boy games that they had purchased online. They walk through most of the common scenarios and really offer a lot of great info. The screenshot below showing the corrosion line mentioned earlier is from their video. 
 
-    ![TronicsFix](images/post/tronicsfix.png)
+    ![TronicsFix](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/tronicsfix.png)
 
 ## Creating and Loading a Library
 
@@ -243,7 +243,7 @@ The Game Boy Color works better than ever, and the games themselves all work. Th
 
 I downloaded the firmware and grabbed a new 64GB MicoSD card, formatted it to FAT32, and moved the firmware folder over (`/GBCSYS`). I then ejected the card, reinserted it into the Everdrive, and plugged the Everdrive into the Game Boy and turned it on. The screenwill flash a prompt of `OS Loading...OS Init...` and then show a warning about how the settings have been reset (normal - just hit any button to proceeed). At this point I powered down the device and removed the microSD card, as everything was working as expected and it was time to load my ROM collection onto the cartridge (microSD card). I will cover how to read (download) games from game cartridges and other aspects in Part 2 of this write-up, which will be posted at a later time once I finish it.
     
-![everdrive-internals](images/post/everdrive-internals.png)
+![everdrive-internals](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/everdrive-internals.png)
 (Everdrive-GB X7 internals)
 
 Loading ROMs onto the card was as simple as plugging the microSD card back into my machine and creating folders of my choosing at the top of the directory structure (leave `/GBCSYS` alone for now). The setup process  for teh Everdrive when plugged into the GBC for the first time creates a few folders and files additionally under the `/GBCSYS` folder, but you can structure your folders outside of that to whatever suits your organizational style. I went with:
