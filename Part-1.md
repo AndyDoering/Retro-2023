@@ -17,7 +17,7 @@ Game emulation has been around since the 1990s, and allows for playing any game 
 
 To play games on these emulators, you need a digital copy of the original game file, which is typically stored in ROM (read-only memory). ROM files (ROMs) are obtained by using specialized hardware that downloads the data from a game cartridge. For disc-based consoles the process is a little different, but the idea is essentially the exact same.
 
-*** I should note here, playing games you've already purchased is perfectly OK...and there's plenty of places online to acquire a digital version of the games that you definitely already own, but may not be able to personally turn into ROMs yourself. I can't list in this write-up sites that you can go to for ROMs, but the internet provides. For the rest of this write-up, I am writing from a perspective of working with games that I already own, or have created myself.***
+***I should note here, playing games you've already purchased is perfectly OK...and there's plenty of places online to acquire a digital version of the games that you definitely already own, but may not be able to personally turn into ROMs yourself. I can't list in this write-up sites that you can go to for ROMs, but the internet provides. For the rest of this write-up, I am writing from a perspective of working with games that I already own, or have created myself.***
 
 Anywho, my on-ramp to messing with ROMs was via my search to replay through titles from my childhood like Pokemon Yellow and Tomba, and via the RetroPie project. While I didn't have a working Original Playstation around, I did have a few spare Raspberry Pis on my desk. Making a RetroPie was a rewarding, fun and accessible introduction to working with a digital ROM collection. 
 
