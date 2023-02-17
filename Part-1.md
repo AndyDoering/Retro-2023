@@ -267,7 +267,7 @@ Loading ROMs onto the card was as simple as plugging the microSD card back into 
     | Games I am working on and testing
 ```
 
-There are additional settings and configuration options that you can go through, and are best described in [RetroBreak's YouTube video](https://krikzz.com/our-products/cartridges/edgbx7.html) guide. I didn't wind up adding ROM 'hacks', modifications, or game cheat codes, but the options are there and very easy to get to.
+There are additional settings and configuration options that you can go through, and are best described in [RetroBreak's YouTube video](https://www.youtube.com/watch?v=p9IYgMTvl2c) guide. I didn't wind up adding ROM 'hacks', modifications, or game cheat codes, but the options are there and very easy to get to.
 
 Speaking of, there's now a button on the top of the Everdrive that when pressed, will bring up a menu to access the home screen, as well as save states and game cheat codes. Lastly, a full breakout of the features of this drive are listed below:
 
