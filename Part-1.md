@@ -164,7 +164,7 @@ Overall this kit was a great install experience delivered in a really attractive
 1. Once all the required components are removed, the install of the kit was fairly easy. I had never secured PCB components without some sort of board-to-board interconnects or diode legs, so that was a bit of a challenge. I had to wind up reflowing the connections on the pads to guarantee a steady stable connection, but as I said earlier being clean and detail oriented really helped.
     - TIP 1: I would have added stem posts clipped from LEDs as through hole legs before trying to flow solder through from the main PCB to the USB-C charger daughterboard. 
     - TIP 2: Tinning the pads and wire ends prior to reheating them to connect them really helped keep the process clean and precise as well
-    - TIP 3: The instructions say to test the board prior to installing it, and you should absolutley do that. Just making another point to call that out here.
+    - TIP 3: The instructions say to test the board prior to installing it, and you should absoluteley do that. Just making another point to call that out here.
 
 1. After checking all my solder joints, I also installed the new speaker, which connects by two pads in the same spot as the original ones.
     - This speaker specifically contributes:
@@ -173,6 +173,7 @@ Overall this kit was a great install experience delivered in a really attractive
 1. Next came the LED status light and board. The trickiest part of this install was making sure the holes lined up. After removing the old components, I cleaned out any remaining solder, cleaned the area, and then tinned the holes with solder as well as the wire ends. I lined up the right, round side of the board with the outline on the PCB, and then secured it with [Kapton tape](https://www.amazon.com/ELEGOO-Polyimide-Temperature-Resistant-Multi-Sized/dp/B072Z92QZ2/) before flowing the solder from the back of the PCB. After this, I soldered the 4 wires (3 to the LED status board and one to the audio amplifier(green)) in the order they specify in the install guide, again, tinning the pads prior to reheating to connect them.
 
     ![Internals-Finished](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/LED-Status-Board.png)
+    
     (Finished LED indicator install from the rear of the main PCB) 
     
     I personally opted to route wires as compact yet tucked away as possible. As I said earlier, I opted for a clear shell, and I really wanted to keep things as tidy and organized as possible. The biggest areas you want to pay attention to though are the green wire, which can get snagged under the cartridge when switching games if not secured, and the 3 wires that run the side of the board. The group of 3 wires can prevent the case from closing all the way if not properly cable managed when being run on the side of the console.
@@ -200,7 +201,7 @@ Overall this kit was a great install experience delivered in a really attractive
         
     - TIP 4: Always be mindful of your hand placement once the display is installed, as you will be tempted to put pressure or select force on areas of the screen and case while trying to snuggly fit things, and you don't want to tweak and break the display. Most issues I read about online of people breaking their screens came from flexing the screens in some manner while reattaching the ribbon cable, installing the screen, assembling the shell, etc. 
     
-    The last bit of housekeeping to do was add Kapton tape to the back of the PCB, over the cartridge pins, and also over the screen ribbon. This is more precautionary than anything, and you can't see any of it in the final assembly, but I like to air on the side of caution. I also added in the buttons, membranes, and turned over the PCB back into the case front, tucking the additional wires down into the side of the case. 
+    The last bit of housekeeping to do was add Kapton tape to the back of the PCB, over the cartridge pins, and also over the screen ribbon. This is more precautionary than anything, and you can't see any of it in the final assembly, but I like to err on the side of caution. I also added in the buttons, membranes, and turned over the PCB back into the case front, tucking the additional wires down into the side of the case. 
     
     The kit advises that you set the potentiometer on the USB-Charging kit daughterboard to 50%. This is accomplished by rotating the metal top portion of the variable resistor listed in the install guide. I think I settled on half a turn clockwise if I recall. The instructions don't state how to adjust this setting as part of `Step 4`, so hopefully this saves you some searching. A pair of hobbyist tweezers made quick work of it.
 
