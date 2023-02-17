@@ -1,6 +1,6 @@
 # Background - Modifying - ROM Libraries and Homebrew Intro
 
-![FinishedProject](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/finishedbuild.png)
+![FinishedProject](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/gb-front.png)
 ## Table of Contents
 
 - [A Brief Introduction to Game Emulation](#a-brief-introduction-to-game-emulation)
