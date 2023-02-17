@@ -1,5 +1,5 @@
 # Retro Gaming With the Game Boy Color in 2023
-![FinishedProject](images/post/finishedbuild.png)
+![FinishedProject](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/finishedbuild.png)
 
 ## Hello, and thanks for reading! 
 
@@ -15,7 +15,7 @@ Further, there's a whole lot you can do with these little retro devices these da
 1. Design, create, and publish my own games, box art, and original sound tracks (OST)
 
 
-![jrodrigoflashcart](images/post/flashcart-jrodrigo.png)
+![jrodrigoflashcart](https://github.com/AndyDoering/Retro-2023/blob/main/Images/post/flashcart-jrodrigo.png)
 (ROM reader/writer and Flash Cart from [JRodrigo](https://www.tindie.com/products/jrodrigo/cart-flasher-for-gameboy/)
 
 ## This write-up is presented in two parts (the second of which I am currently in the process of completing):
