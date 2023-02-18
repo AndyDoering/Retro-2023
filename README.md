@@ -22,7 +22,7 @@ Further, there's a whole lot you can do with these little retro devices these da
 
 1. `Background - Modifying the Console - ROM Libraries and Homebrew Intro`
 
-    The first section of this write-up details out a walkthrough of installing modern upgrades to the Game Boy Color, as well as tips for easier installs of the kits. This section also contains a quick background on game emulation, ROMs, creating ROM libraries, community made games, and hardware modifications. 
+    The [first section of this write-up](https://github.com/AndyDoering/Retro-2023/blob/main/Part-1.md) details out a walkthrough of installing modern upgrades to the Game Boy Color, as well as tips for easier installs of the kits. This section also contains a quick background on game emulation, ROMs, creating ROM libraries, community made games, and hardware modifications. 
 
 2. `Designing - Building - Packaging - Distributing a Game Boy Game`
 
